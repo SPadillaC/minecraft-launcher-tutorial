@@ -1,5 +1,3 @@
-<div class=text-justify>
-
 # Tutorial de Instalación
 
 ## Instalación del Launcher
@@ -184,4 +182,3 @@ A continuación, te muestro algunas opciones adicionales que ayudan a tener una 
 
 Aquí acaba el tutorial de instalación. Para cualquier duda con el procedimiento de cualquier apartado, por favor comunícate en Discord con LemonDemon. ¡GLHF!
 
-</div>
